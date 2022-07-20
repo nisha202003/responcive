@@ -1,0 +1,29 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+  }
+  body{
+    background-image: url('images/main-banner-2-1.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+   }
+  header,section{
+      color:whitesmoke;
+  }
+   
+   .img h2{
+       margin: 20px 20px;
+   }
+.col-sm-4{
+       background-color: red;
+      
+   }
+   nav{
+       background-color: silver;
+   }
